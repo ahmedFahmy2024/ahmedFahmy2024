@@ -1,24 +1,24 @@
-Ahmed Abdo Fahmy
-Front-End Engineer — Building Scalable & Data-Driven Web Applications
+<h1 align="center">👋 Hi, I'm <strong>Ahmed Abdo Fahmy</strong></h1> <h3 align="center">Front-End Engineer — Building Scalable, Data-Driven Web Applications</h3>
+🚀 About Me
 
-I’m a Front-End Developer focused on building large-scale dashboards, real-time systems, and data-intensive applications.
-I specialize in turning complex workflows into clean, intuitive interfaces that are reliable, scalable, and easy to maintain.
+I’m a Front-End Developer focused on building large-scale dashboards, real-time systems, and data-heavy applications.
+I turn complex workflows into clean, intuitive, and performant interfaces that scale reliably as products grow.
 
-What I Work On
+🧩 What I Do
 
-Enterprise dashboards handling thousands of records
+Build enterprise dashboards handling thousands of records
 
-Real-time systems with live updates and notifications
+Architect modular, maintainable UI systems
 
-Multilingual admin panels and user management systems
+Develop multilingual admin tools & workflow-driven platforms
 
-Clean architecture and modular UI design
+Work with real-time features, notifications & live data updates
 
-Complex forms, filtering, and data-heavy interfaces
+Design smooth, user-friendly experiences for complex systems
 
-Highlighted Projects
+📌 Featured Work
 
-Logistics Dashboard — 5k+ orders, 3k+ drivers, maps, RBAC, real-time updates
+Logistics Dashboard — 5k+ orders, 3k+ drivers, route maps, RBAC, real-time updates
 
 Learning Management System — course builder, video uploads, payments, auth
 
@@ -26,12 +26,17 @@ WhatsApp Business Platform — multi-device messaging, automation, analytics
 
 Real-Time Auction Platform — live bidding, media handling, role-based views
 
-Tech I Use
+🛠️ Tech Stack
 
-React, Next.js, TypeScript, Tailwind, shadcn/ui, TanStack Query, Zustand, Zod, Node.js, Prisma, Drizzle, PostgreSQL, WebSockets
+React · Next.js · TypeScript · Tailwind · shadcn/ui · TanStack Query · Zustand · Zod ·
+Node.js · Prisma · Drizzle · PostgreSQL · WebSockets · Maps APIs
 
-Connect
+🌐 Connect With Me
 
-🔗 Portfolio: ahmed-fahmy-portfolio.vercel.app
-🔗 LinkedIn: linkedin.com/in/ahmed-abdo-fahmy2021
+💼 Portfolio: https://ahmed-fahmy-portfolio.vercel.app
+
+🔗 LinkedIn: https://www.linkedin.com/in/ahmed-abdo-fahmy2021
+
 📧 Email: ahmedmewans2040@gmail.com
+
+<p align="center">⭐ If you enjoy my work, feel free to star my repositories!</p>
